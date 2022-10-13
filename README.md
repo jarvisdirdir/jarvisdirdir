@@ -1,5 +1,5 @@
 - 👋 Hi, I’m jarvis
-- 👀 I’m interested in ...coding
+- 👀 I’m interested in ...coding、Gundam、Toys
 - 🌱 I’m currently learning ... Angular & design pattern
 
 
